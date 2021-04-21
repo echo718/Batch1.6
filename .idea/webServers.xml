@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="36173fb2-adaa-40bb-841a-7e7082f8378c" name="batch1.6" url="http://localhost:8081">
+        <fileTransfer mountedRoot="H:\XAMPP\htdocs" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
